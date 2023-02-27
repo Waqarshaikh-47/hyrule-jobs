@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background: #ece6d9;
+}
+
+@font-face {
+  font-family: HyliaSerif;
+  src: url("./Triforce.ttf") format("opentype");
+}
+
+h1 {
+  font-family: HyliaSerif;
+  letter-spacing: 4px;
+}
